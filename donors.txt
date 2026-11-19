@@ -1,10 +1,4 @@
-Rahul|A+|2
-Rahul|A+|2
-Rahul|A+|2
-Meena Joshi|O+|2
-Meena joshi|O+|1
-Suresh Rao|O+|2
 Meena joshi|O+|1
 Suresh Rao|O+|2
 Anil Verma|B+|1
-Anil Verma|B+|1
+
